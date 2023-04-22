@@ -1,0 +1,7 @@
+env:
+  name: my
+
+gpt:
+  authorization: "Bearer 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"
+  organization: "org-JNIEEdgbotEA4kPIOzb2FOYG"
+  port: "8080"
